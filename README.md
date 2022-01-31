@@ -24,7 +24,7 @@ Interested in having someone build you a website? Let´s talk!
 email: mariapenafd@gmail.com
 linkedin: https://www.linkedin.com/in/maria-pe%C3%B1a-721b531a3/
 
-## 👩🏽‍💻Sobre mi - 🇺🇸Español
+## 👩🏽‍💻Sobre mi - 🇦🇷Español
 Soy desarrolladora full stack y alumna de tercer año de la carrera de Negocios Digitales. Empecé a programar cuando tenía 17 años, y desde entonces nunca más paré. Soy avanzada en desarrollo web y estoy actualmente apreniendo desarrollo mobile con React Native. Empecé trabajando como freelancer este año, después de dejar mi trabajo como desarrolladora junior en un startup en Argentina.
 ### 💡Skills
 - HTML, CSS y JavaScript 
