@@ -1,4 +1,4 @@
-### My name is María Peña, and I´m a Full Stack developer located in Argentina 👋
+![](./img/header.png)
 
 <!--
 **mariapenaa/mariapenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
