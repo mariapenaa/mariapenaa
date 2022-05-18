@@ -3,7 +3,8 @@
 * [About me - English](#about-me---english)
 * [Sobre mi - Español](#sobre-mi---español)
 ## 👩🏽‍💻About me - 🇺🇸English
-I´m a full stack developer and a third year college student majoring in Digital Business. I started coding when I was 17, and haven´t stopped since. I´m experienced in web development and am currently learning mobile development with React Native. I started working as a freelancer this year, after leaving my job as a junior developer in a startup company in Argentina. 
+I´m a full stack developer and a third year college student majoring in Digital Business. I started coding when I was 17, and haven´t stopped since. I´m experienced in web development and am currently learning mobile development with React Native.
+
 ### 💡Skills
 - HTML, CSS and JavaScript 
 - Angular
